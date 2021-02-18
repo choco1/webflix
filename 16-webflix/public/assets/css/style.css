@@ -1,0 +1,22 @@
+body {
+    background-color: lightgrey;
+}
+
+.card-img-top {
+    height: 350px;
+    object-fit: cover;
+}
+
+.card-title {
+    min-height: 50px;
+}
+
+.carousel-item img {
+    height: 300px;
+    object-fit: cover;
+    width: 33.33%;
+}
+
+.small-text {
+    font-size: 10px;
+}
